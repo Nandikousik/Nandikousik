@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandikousik&label=Profile%20views&color=0e75b6&style=flat" alt="nandikousik" /> </p>
 
-- 🌱 I’m currently learning **Figma and Django**
+- 🌱 I’m currently learning **Django and Database**
 
 - 👨‍💻 All of my projects are available at [here](https://kousiknandiportfolio.w3spaces.com/)
 
