@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Figma and Django**
 
-- 👨‍💻 All of my projects are available at [https://kousiknandiportfolio.w3spaces.com/](https://kousiknandiportfolio.w3spaces.com/)
+- 👨‍💻 All of my projects are available at [here](https://kousiknandiportfolio.w3spaces.com/)
 
-- 📝 I write articles on [https://www.blogger.com/profile/13572862079263177233](https://www.blogger.com/profile/13572862079263177233)
+- 📝 I write articles on [blogger](https://www.blogger.com/profile/13572862079263177233)
 
 - 📫 How to reach me **kousiknandi16@gmail.com**
 
