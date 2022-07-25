@@ -17,7 +17,7 @@
 
 <br />
 
-Hi, I'm [Kousik Nandi](https://nandikousik.github.io/Kousik-Portfolio/), a Computer Science from Netaji Subhash Engineering College .I'm passionate in self-taught back end web developer and freelancing. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience,  and code quality of the things I build.
+Hi, I'm [Kousik Nandi](https://nandikousik.github.io/Kousik-Portfolio/), a Computer Science Engineer from Netaji Subhash Engineering College .I'm passionate in self-taught back end web developer and freelancing. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience,  and code quality of the things I build.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community.
 
