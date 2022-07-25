@@ -43,10 +43,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <!--START_SECTION:waka-->
 
 ```text
-Django   8 hrs 33 mins   ██████████████████████░░░   88.17 %
-Admistration   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Django                 8 hrs 33 mins      ██████████████████████░░░   88.17 %
+Admistration(Database)   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+HTML                     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Other                    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
