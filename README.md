@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Nandikousik?tab=repositories)
 
-- 📝 I write articles on [blogger](https://www.blogger.com/profile/13572862079263177233)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kousiknandi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kousiknandi13" height="30" width="40" /></a>
